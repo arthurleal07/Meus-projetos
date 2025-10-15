@@ -1,4 +1,4 @@
-<h1 align="center">TP2 – IHC • TEMA DO TRABALHO</h1>
+<h1 align="center">TP2 – IHC • CLASSIFICAÇÃO DE SATISFAÇÃO DO USUÁRIO EM UM APLICATIVO DE ENTREGA</h1>
 
 <p align="center">
   <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
