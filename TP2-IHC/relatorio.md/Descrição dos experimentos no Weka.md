@@ -1,4 +1,4 @@
-## 4. Descrição dos Experimentos no Weka  
+## Descrição dos Experimentos no Weka  
 
 Foram testados diferentes **algoritmos de classificação supervisionada**, conforme o quadro abaixo:
 
