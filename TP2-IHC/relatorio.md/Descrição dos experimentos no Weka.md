@@ -1,1 +1,15 @@
+## 4. Descrição dos Experimentos no Weka  
 
+Foram testados diferentes **algoritmos de classificação supervisionada**, conforme o quadro abaixo:
+
+| Algoritmo | Tipo | Observação |
+|------------|------|-------------|
+| **J48** | Árvore de decisão | Produz regras interpretáveis (modelo principal) |
+| **Naive Bayes** | Probabilístico | Assume independência entre os atributos |
+| **IBk (k-NN)** | Baseado em instâncias | Classifica pela similaridade entre exemplos (k=3) |
+| **ZeroR / OneR** | Baseline | Utilizados como modelos de referência |
+
+**Configuração experimental:**  
+- Avaliação utilizando o método **Hold-Out** (66 % para treino e 34 % para teste)  
+- Métricas avaliadas: **Acurácia**, **Precisão**, **Recall** e **F-Measure**  
+- Todos os modelos foram executados sobre a mesma base de dados, garantindo **comparação justa e consistente**.  
