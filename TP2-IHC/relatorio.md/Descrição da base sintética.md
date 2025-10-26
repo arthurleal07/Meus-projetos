@@ -1,9 +1,10 @@
-## Descrição da Base Sintética  
+## Descrição da Base de Dados Sintética  
 
-A base de dados foi criada de forma **sintética** (simulada) com o objetivo de representar diferentes perfis de usuários.  
+A base de dados foi elaborada de forma **sintética**, simulando situações reais de uso de um aplicativo de entrega.  
 
-- Quantidade de registros: **100 instâncias**  
-- Número de atributos: **5 variáveis + classe**  
-- Ferramentas utilizadas: **Excel** para geração dos dados e exportação para CSV, posteriormente importado no **Weka**  
-- A base foi construída para equilibrar as três classes (aproximadamente 33 % de cada categoria de satisfação)
+- **Número de instâncias:** 91  
+- **Atributos:** 6 variáveis descritivas + classe-alvo  
+- **Ferramentas utilizadas:** Excel (para criação dos dados), exportação em formato CSV e posterior importação no **Weka**  
+- **Distribuição das classes:** aproximadamente 44 % Alta, 30 % Média e 26 % Baixa  
 
+A base foi propositalmente balanceada, de modo a **representar diferentes perfis de usuários** e garantir maior qualidade na generalização dos modelos.
